@@ -17,3 +17,4 @@
 - 🎧 Fun fact: My interests range from alternative music and fictional worlds to languages gaming and digital creativity etc.
 ---
 
+<img width="1750" height="800" alt="7463d78d184c43bb878ee9b63d5e8652" src="https://github.com/user-attachments/assets/18d92485-6028-4ede-8b3c-af6c3c76369d" />
