@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DED9F2,50:E8DDEB,100:D9E6F2&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=36&fontColor=5D566B&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CBDE0,35:527DAA,65:B94A50,100:DC8585&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=36&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
+
 
 
 # Hi ୭ ᵎᵎ  im Sage (˵◝ ⩊ ◜˵マ
@@ -16,5 +17,5 @@
 - 🌱 Always learning discovering new interests and growing at my own pace
 - 🎧 Fun fact: My interests range from alternative music and fictional worlds to languages gaming and digital creativity etc.
 ---
+<img width="480" height="270" alt="2439a7ff51a44daae9562946bb1833fa" src="https://github.com/user-attachments/assets/5a3f4fa0-2e51-42eb-ac23-e32e9b1ef23a" />
 
-<img width="1750" height="800" alt="7463d78d184c43bb878ee9b63d5e8652" src="https://github.com/user-attachments/assets/18d92485-6028-4ede-8b3c-af6c3c76369d" />
