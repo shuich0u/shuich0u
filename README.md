@@ -5,8 +5,8 @@
 
 # Hi ୭ ᵎᵎ  im Sage (˵◝ ⩊ ◜˵マ
 
-- 𓂃🪶 bookworm || INFJ 4w5 || TR / ENG || unfortunately 19 𓏵‧₊˚ ┊
-- ゴ Certified Jojo lover & Action rpg  and visual novel enjoyer >⩊<
+- 𓂃🪶 bookworm || INFJ 4w5 || TR / ENG || unfortunately 19 lol
+- ゴ Certified Jojo lover & action rpg  and visual novel enjoyer >⩊<
 
 ---
 
