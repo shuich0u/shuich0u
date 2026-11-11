@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CBDE0,35:527DAA,65:B94A50,100:DC8585&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=36&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563A6&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
+
 
 
 
@@ -18,4 +19,5 @@
 - 🎧 Fun fact: My interests range from alternative music and fictional worlds to languages gaming and digital creativity etc.
 ---
 <img width="480" height="270" alt="2439a7ff51a44daae9562946bb1833fa" src="https://github.com/user-attachments/assets/5a3f4fa0-2e51-42eb-ac23-e32e9b1ef23a" />
+![Uploading 247517f4dac67812910142888ed9bc8b.gif…]()
 
