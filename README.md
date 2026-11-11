@@ -3,10 +3,10 @@
 </div>
 
 
-# Hi ୭ ᵎᵎ 🧁 im Sage ^^
+# Hi ୭ ᵎᵎ  im Sage (˵◝ ⩊ ◜˵マ
 
-- 𓂃🪶 Bookworm || INFJ 4w5 || TR / ENG || adult
-- ゴ Certified Jojo lover & Action rpg  and visual novel enjoyer
+- 𓂃🪶 bookworm || INFJ 4w5 || TR / ENG || unfortunately 19 𓏵‧₊˚ ┊
+- ゴ Certified Jojo lover & Action rpg  and visual novel enjoyer >⩊<
 
 ---
 
