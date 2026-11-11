@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,11&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
+</div>
 
-<!--
-**shuich0u/shuich0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi!! im Sage ^^
 
-Here are some ideas to get you started:
+- 𓂃🪶 Bookworm || INFJ 4w5 || TR / ENG
+- ゴ Certified Jojo lover & Action rpg games fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  ও αвσυт мє!! ۶ৎ
+
+- 🌙 I enjoy exploring different perspectives, music, literature, and creative ideas.
+- 🌱 Always learning, discovering new interests, and growing at my own pace.
+- 🎧 Fun fact: My interests range from alternative music and fictional worlds to languages, gaming, and digital creativity.
+---
+
